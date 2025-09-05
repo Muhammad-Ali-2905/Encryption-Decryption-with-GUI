@@ -1,14 +1,5 @@
 # RSA-Based Secure Data Handling with GUI
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Technical Implementation](#technical-implementation)
-  - [RSA Algorithm](#rsa-algorithm)
-  - [C# Application](#c-application)
-  - [C++ Library](#c-library)
-- [Workflow](#workflow)
-
 ## Project Overview
 This project implements a secure data encryption and decryption system using the RSA algorithm, complemented by a user-friendly graphical interface. It is designed to handle sensitive information with high security by leveraging RSA for cryptographic operations.
 
